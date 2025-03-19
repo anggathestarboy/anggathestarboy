@@ -1,4 +1,4 @@
-I am Rizqi Anggara Efendi 🚀, a passionate game 🎮 and web developer 🌐 who loves creating immersive Android games 📱 and interactive websites 💻.
+I am Rizqi Anggara🚀, a passionate game 🎮 and web developer 🌐 who loves creating immersive Android games 📱 and interactive websites 💻.
 
 
 <!---
