@@ -39,4 +39,3 @@ If you have any exciting projects or ideas, feel free to collaborate with me. I'
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
