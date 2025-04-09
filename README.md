@@ -30,7 +30,8 @@ Feel free to reach out or follow me on my social media platforms:
 
 - 🎥 **TikTok:** [![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@thisiscoldman)  
 - 📸 **Instagram:** [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rizzz_anggara)  
-- 🐦 **X (formerly Twitter):** [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ItsKingAnggara)
+- 🐦 **X (formerly Twitter):** [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ItsKingAnggara)  
+- 📘 **Facebook:** [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/riski.a.channel.3?mibextid=ZbWKwL)
 
 ---
 
