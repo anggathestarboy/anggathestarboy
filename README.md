@@ -2,7 +2,7 @@
 <h3 align="center">💻 Web & Game Developer from Indonesia 🎮</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAE&center=true&vCenter=true&multiline=true&width=500&lines=Transforming+Ideas+into+Reality.;Crafting+Websites+and+2D+Games.;Fueled+by+Curiosity+%26+Code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAE&center=true&vCenter=true&width=450&lines=I+turn+ideas+into+awesome+code." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ I'm **Rizqi Anggara**, a creative soul who loves building stunning **web apps** 
 
 - 🚀 Always learning something new
 - 🎯 Passionate about building useful tools
-- 🧠 Strong believer in "learn by doing"
+- ✨ Also skilled in **design & video editing** — I bring both beauty and function into my projects.
 
 ---
 
@@ -31,7 +31,7 @@ I'm **Rizqi Anggara**, a creative soul who loves building stunning **web apps** 
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <br/>
-  
+
   <!-- Backend -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -40,9 +40,20 @@ I'm **Rizqi Anggara**, a creative soul who loves building stunning **web apps** 
   <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <br/>
 
-  <!-- Other Tools -->
+  <!-- CMS/Game -->
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+</p>
+
+---
+
+### 🎨 Design & Editing Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AlightMotion-1C1C1C?style=for-the-badge&logo=alightmotion&logoColor=00FFD5"/>
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
 </p>
 
 ---
@@ -69,9 +80,9 @@ I'm **Rizqi Anggara**, a creative soul who loves building stunning **web apps** 
 
 ### 🤝 Let’s Collaborate!
 
-Got a cool idea or want to make something awesome together?  
-**Let’s connect and code it into reality!** 🛠️✨
+Got a cool idea, need a front-end partner, or want to design a game or animation?
+**Let’s build something amazing together!** 💡🚀
 
 ---
 
-> 🧠 *“Never stop learning. Never stop building.”*
+> 🧠 *“Keep learning. Keep building. Keep inspiring.”*
