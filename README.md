@@ -42,14 +42,6 @@ I'm **Rizqi Anggara**, a creative developer who crafts digital experiences throu
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rizqianggara&theme=dracula&row=1&column=6"/>
-</p>
-
----
-
 ### 🔗 Socials
 
 <p align="center">
@@ -69,4 +61,3 @@ Feel free to connect and let’s build something **amazing** together! 💡🚀
 ---
 
 > 🧠 *Keep learning. Keep building. Stay curious.*
-
