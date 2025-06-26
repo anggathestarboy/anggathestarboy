@@ -2,31 +2,45 @@
 <h3 align="center">💻 Web & Game Developer from Indonesia 🎮</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAE&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+Web+%26+Game+Developer;Always+learning+and+building+cool+things." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAE&center=true&vCenter=true&multiline=true&width=500&lines=Transforming+Ideas+into+Reality.;Crafting+Websites+and+2D+Games.;Fueled+by+Curiosity+%26+Code." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Code Animation" />
 </p>
 
 ---
 
 ### 🌟 About Me
 
-I'm **Rizqi Anggara**, a creative developer who crafts digital experiences through both **web technologies** and **game development**. I love blending code with creativity — whether it's a responsive website or a 2D platformer!
+I'm **Rizqi Anggara**, a creative soul who loves building stunning **web apps** and **2D games**. I enjoy mixing logic with art — turning dreams into digital form.
+
+- 🚀 Always learning something new
+- 🎯 Passionate about building useful tools
+- 🧠 Strong believer in "learn by doing"
 
 ---
 
 ### 🔧 Tech Stack
 
 <p align="center">
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <br>
+  <br/>
+  
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <br>
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <br/>
+
+  <!-- Other Tools -->
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
@@ -53,11 +67,11 @@ I'm **Rizqi Anggara**, a creative developer who crafts digital experiences throu
 
 ---
 
-### 💬 Let's Collaborate!
+### 🤝 Let’s Collaborate!
 
-Got a cool project, game idea, or challenge?  
-Feel free to connect and let’s build something **amazing** together! 💡🚀
+Got a cool idea or want to make something awesome together?  
+**Let’s connect and code it into reality!** 🛠️✨
 
 ---
 
-> 🧠 *Keep learning. Keep building. Stay curious.*
+> 🧠 *“Never stop learning. Never stop building.”*
