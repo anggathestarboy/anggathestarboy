@@ -84,4 +84,4 @@ Got a cool idea, need a front-end partner, or want to design a game or animation
 
 ---
 
-> 🧠 *“Keep learning. Keep building. Keep inspiring.”*
+> 🧠 *“Humans are born ignorant, not stupid. They become stupid through laziness and despair.”*
