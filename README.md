@@ -15,8 +15,8 @@
 
 I'm **Rizqi Anggara**, a creative soul who loves building stunning **web apps** and **2D games**. I enjoy mixing logic with art — turning dreams into digital form.
 
-- 🚀 Always learning something new
-- 🎯 Passionate about building useful tools
+- 🚀 Always learning something new  
+- 🎯 Passionate about building useful tools  
 - ✨ Also skilled in **design & video editing** — I bring both beauty and function into my projects.
 
 ---
@@ -61,7 +61,11 @@ I'm **Rizqi Anggara**, a creative soul who loves building stunning **web apps** 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggathestarboy&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anggathestarboy&show_icons=true&theme=radical" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggathestarboy&layout=compact&theme=radical&langs_count=8" width="600"/>
 </p>
 
 ---
@@ -79,7 +83,7 @@ I'm **Rizqi Anggara**, a creative soul who loves building stunning **web apps** 
 
 ### 🤝 Let’s Collaborate!
 
-Got a cool idea, need a front-end partner, or want to design a game or animation?
+Got a cool idea, need a front-end partner, or want to design a game or animation?  
 **Let’s build something amazing together!** 💡🚀
 
 ---
