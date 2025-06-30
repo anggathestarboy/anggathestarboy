@@ -57,7 +57,6 @@ I enjoy mixing logic with art — turning dreams into digital form.
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=anggathestarboy&show_icons=true&theme=radical" width="600"/>
 
 <br>
 
