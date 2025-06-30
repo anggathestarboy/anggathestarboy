@@ -18,7 +18,7 @@ I enjoy mixing logic with art — turning dreams into digital form.
 
 - 🚀 Always learning something new  
 - 🎯 Passionate about building useful tools  
-- ✨ Also skilled in <strong>design & video editing</strong> — I bring both beauty and function into my projects.
+- ✨ Also skilled in <strong>design & video editing</strong>
 
 ---
 
