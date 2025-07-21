@@ -76,7 +76,7 @@ I enjoy mixing logic with art — turning dreams into digital form.
 ### 🤝 Let’s Collaborate!
 
 Got a cool idea, need a front-end partner, or want to design a game or animation?  
-<strong>Let’s build something amazing together!</strong> 💡🚀
+<strong>Let’s build something amazing together!</strong> 💡🚀🚀
 
 ---
 
