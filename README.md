@@ -60,7 +60,7 @@ I enjoy mixing logic with art — turning dreams into digital form.
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggathestarboy&layout=compact&theme=radical&langs_count=8" width="600"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggathestarboy&layout=compact&theme=radical&langs_count=8" width="400"/>
 
 ---
 
