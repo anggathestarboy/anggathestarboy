@@ -13,7 +13,7 @@
 
 ### 🌟 About Me
 
-I'm <strong>Rizqi Anggara</strong>, a creative soul who loves building stunning <strong>web apps</strong> and <strong>Mobile games</strong>.  
+I'm <strong>Rizqi Anggara Efendi</strong>, a creative soul who loves building stunning <strong>web apps</strong> and <strong>Mobile games</strong>.  
 I enjoy mixing logic with art — turning dreams into digital form.
 
 - 🚀 Always learning something new  
