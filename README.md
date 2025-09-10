@@ -22,10 +22,10 @@ I enjoy mixing logic with art — turning dreams into digital form.
 
 ---
 
-### 🔧 Tech Stack
+### 🔧 Tech Stack (Pyramid Style)
 
-#### 🌐 Frontend
-<p>
+<p align="center">
+  <!-- Frontend (level 1 - paling lebar) -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -35,8 +35,8 @@ I enjoy mixing logic with art — turning dreams into digital form.
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
-#### 🔙 Backend
-<p>
+<p align="center">
+  <!-- Backend (level 2 - lebih sedikit) -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -44,8 +44,8 @@ I enjoy mixing logic with art — turning dreams into digital form.
   <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
-#### 🎮 CMS / Game Development
-<p>
+<p align="center">
+  <!-- CMS/Game (level 3 - paling sedikit) -->
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
