@@ -1,26 +1,3 @@
-<div align="center">
-
-<h1>Hi there 👋, I'm Rizqi Anggara</h1>
-<h3>💻 Web & Game Developer from Indonesia 🎮</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAE&center=true&vCenter=true&width=450&lines=I+turn+ideas+into+awesome+code." alt="Typing SVG" />
-
-<br><br>
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Code Animation" />
-
----
-
-### 🌟 About Me
-
-I'm <strong>Rizqi Anggara</strong>, a creative soul who loves building stunning <strong>web apps</strong> and <strong>mobile games</strong>.  
-I enjoy mixing logic with art — turning dreams into digital form.
-
-- 🚀 Always learning something new  
-- 🎯 Passionate about building useful tools  
-- ✨ Also skilled in <strong>design & video editing</strong>
-
----
 
 <div align="center">
 
