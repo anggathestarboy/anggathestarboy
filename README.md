@@ -26,22 +26,6 @@
 
 ---
 
-
-### 📊 GitHub Stats
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggathestarboy&layout=compact&theme=radical&langs_count=8" width="400"/>
-
----
-
-### 🤝 Let’s Collaborate!
-
-Got a cool idea, need a front-end partner, or want to design a game or animation?  
-<strong>Let’s build something amazing together!</strong> 💡🚀🚀
-
----
-
 <blockquote><i>🧠 “Humans are born ignorant, not stupid. They become stupid through laziness and despair.”</i></blockquote>
 
 </div>
