@@ -4,15 +4,6 @@
 <h1>Hi there 👋, I'm Rizqi Anggara</h1>
 <h3>💻 Web & Game Developer from Indonesia 🎮</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAE&center=true&vCenter=true&width=450&lines=I+turn+ideas+into+awesome+code." alt="Typing SVG" />
-
-<br><br>
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Code Animation" />
-
----
-
-
 ### 🔧 Tech Stack
 
 <div align="center">
