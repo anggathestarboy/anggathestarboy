@@ -12,16 +12,6 @@
 
 ---
 
-### 🌟 About Me
-
-I'm <strong>Rizqi Anggara</strong>, a creative soul who loves building stunning <strong>web apps</strong> and <strong>mobile games</strong>.  
-I enjoy mixing logic with art — turning dreams into digital form.
-
-- 🚀 Always learning something new  
-- 🎯 Passionate about building useful tools  
-- ✨ Also skilled in <strong>design & video editing</strong>
-
----
 
 ### 🔧 Tech Stack
 
