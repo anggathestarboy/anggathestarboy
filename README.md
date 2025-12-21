@@ -62,6 +62,12 @@ I enjoy mixing logic with art — turning dreams into digital form.
 
 ---
 
+
+
+![Snake animation](https://github.com/anggathestarboy/anggathestarboy/blob/output/github-contribution-grid-snake.svg)
+
+
+
 ### 📊 GitHub Stats
 
 <br>
