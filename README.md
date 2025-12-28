@@ -62,15 +62,6 @@ I enjoy mixing logic with art — turning dreams into digital form.
 
 ---
 
-
-### 📊 GitHub Stats
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggathestarboy&layout=compact&theme=radical&langs_count=8" width="400"/>
-
----
-
 ### 🔗 Socials
 
 <a href="https://www.tiktok.com/@thisiscoldman"><img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
