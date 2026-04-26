@@ -52,7 +52,7 @@
 ---
 
 ### 🔗 Socials
-
+<a href="https://www.linkedin.com/in/rizqi-anggara-81486935b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.tiktok.com/@thisiscoldman"><img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 <a href="https://www.instagram.com/rizzz_anggara"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://x.com/ItsKingAnggara"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
