@@ -60,6 +60,12 @@
 
 ---
 
+<div align="center">
+  <a href="https://open.spotify.com/user/31367432abcl6u7ocjtyl4ohuzwm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31367432abcl6u7ocjtyl4ohuzwm](https://spotify-recently-played-readme.vercel.app/api?user=31367432abcl6u7ocjtyl4ohuzwm" alt="Spotify recently played"  />
+  </a>
+</div>
+
 ### 🤝 Let’s Collaborate!
 
 Got a cool idea, need a front-end partner, or want to design a game or animation?  
