@@ -68,7 +68,7 @@
 
 ### 🤝 Let’s Collaborate!
 
-Got a cool idea, need a front-end partner, or want to design a game or animation?  
+Got a cool idea, need a back-end partner, or want to build a android game?  
 <strong>Let’s build something amazing together!</strong> 💡🚀🚀
 
 ---
