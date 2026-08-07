@@ -2,8 +2,6 @@
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:0B192C,45:1E3E62,100:008DDA&text=RIZQI%20ANGGARA&fontColor=F8FAFC&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Fullstack%20Dev%20%7C%20Mobile%20Dev%20%7C%20Game%20Dev&descAlignY=58&descSize=16" alt="Rizqi Anggara profile header" />
-
-
 <p>
   <a href="https://anggara.xyz">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" />
@@ -13,7 +11,6 @@
   </a>
   <img src="https://img.shields.io/badge/Malang,%20Indonesia-1E3E62?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Malang, Indonesia" />
 </p>
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=anggathestarboy&style=flat-square&color=0284C7&label=Profile%20Views" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/anggathestarboy?style=flat-square&color=0369A1&labelColor=0F172A&logo=github&logoColor=white" alt="GitHub followers" />
@@ -50,8 +47,6 @@
   <img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
-<br/>
-
 <div align="center">
 
 ### 🔗 Connect With Me
@@ -82,7 +77,7 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31367432abcl6u7ocjtyl4ohuzwm" alt="Spotify recently played" />
 </a>
 
-<br/><br/>
+<br/>
 
 ### 🤝 Let's Collaborate!
 
