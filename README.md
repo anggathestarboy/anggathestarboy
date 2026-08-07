@@ -47,17 +47,6 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
----
-
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/palette.svg" width="22" height="22"/> &nbsp;Design & Creative Tools
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40" alt="Figma" title="Figma"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" height="40" alt="Canva" title="Canva"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/capcut/white" width="40" height="40" alt="CapCut" title="CapCut"/>
-</p>
-
----
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="22" height="22"/> &nbsp;Connect With Me
 
