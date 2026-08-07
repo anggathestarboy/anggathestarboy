@@ -23,7 +23,7 @@
 
 <div align="center">
 
-### 🧑‍💻 Tech Stack
+### Tech Stack
 
 </div>
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <a href="https://www.linkedin.com/in/rizqi-anggara-81486935b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
