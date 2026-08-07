@@ -28,41 +28,25 @@
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code.svg" width="22" height="22"/> &nbsp;Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="130"><strong>Frontend</strong></td>
-    <td>
-      <img src="https://cdn.simpleicons.org/html5/E34F26" width="36" height="36" alt="HTML5" title="HTML5"/> &nbsp;
-      <img src="https://cdn.simpleicons.org/css3/1572B6" width="36" height="36" alt="CSS3" title="CSS3"/> &nbsp;
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript" title="JavaScript"/> &nbsp;
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS"/> &nbsp;
-      <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="36" height="36" alt="Bootstrap" title="Bootstrap"/> &nbsp;
-      <img src="https://cdn.simpleicons.org/jquery/0769AD" width="36" height="36" alt="jQuery" title="jQuery"/> &nbsp;
-      <img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React" title="React"/> &nbsp;
-      <img src="https://cdn.simpleicons.org/vite/646CFF" width="36" height="36" alt="Vite" title="Vite"/> &nbsp;
-      <img src="https://cdn.simpleicons.org/nextdotjs/white" width="36" height="36" alt="Next.js" title="Next.js"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend & DB</strong></td>
-    <td>
-      <img src="https://cdn.simpleicons.org/php/777BB4" width="36" height="36" alt="PHP" title="PHP"/> &nbsp;
-      <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="36" height="36" alt="Laravel" title="Laravel"/> &nbsp;
-      <img src="https://cdn.simpleicons.org/csharp/512BD4" width="36" height="36" alt="C#" title="C#"/> &nbsp;
-      <img src="https://cdn.simpleicons.org/mysql/4479A1" width="36" height="36" alt="MySQL" title="MySQL"/> &nbsp;
-      <img src="https://cdn.simpleicons.org/sqlite/003B57" width="36" height="36" alt="SQLite" title="SQLite"/> &nbsp;
-      <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="36" height="36" alt="MSSQL" title="MSSQL"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Platforms & Engines</strong></td>
-    <td>
-      <img src="https://cdn.simpleicons.org/wordpress/21759B" width="36" height="36" alt="WordPress" title="WordPress"/> &nbsp;
-      <img src="https://cdn.simpleicons.org/unity/white" width="36" height="36" alt="Unity" title="Unity"/>
-    </td>
-  </tr>
-</table>
-
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
 ---
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/palette.svg" width="22" height="22"/> &nbsp;Design & Creative Tools
