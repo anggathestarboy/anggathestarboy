@@ -1,25 +1,23 @@
 <div align="center">
 
-<!-- Header Banner -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:0B192C,45:1E3E62,100:008DDA&text=RIZQI%20ANGGARA&fontColor=F8FAFC&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Fullstack%20Dev%20%7C%20Mobile%20Dev%20%7C%20Game%20Dev&descAlignY=58&descSize=16" alt="Rizqi Anggara profile header" />
 
-<br/>
 
-<!-- Profile Links & Badges -->
 <p>
-  <a href="https://putraalghifary.web.id">
+  <a href="https://anggara.xyz">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" />
   </a>
-  <a href="https://github.com/ptraxzy">
+  <a href="https://github.com/anggathestarboy">
     <img src="https://img.shields.io/badge/GitHub-0B192C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Malang,%20Indonesia-1E3E62?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Malang, Indonesia" />
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ptraxzy&style=flat-square&color=0284C7&label=Profile%20Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ptraxzy?style=flat-square&color=0369A1&labelColor=0F172A&logo=github&logoColor=white" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/ptraxzy?style=flat-square&color=38BDF8&labelColor=0F172A&logo=github&logoColor=white" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=anggathestarboy&style=flat-square&color=0284C7&label=Profile%20Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/anggathestarboy?style=flat-square&color=0369A1&labelColor=0F172A&logo=github&logoColor=white" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/anggathestarboy?style=flat-square&color=38BDF8&labelColor=0F172A&logo=github&logoColor=white" alt="GitHub stars" />
 </p>
 
 </div>
