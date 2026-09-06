@@ -86,6 +86,6 @@ Got a cool idea, need a backend partner, or want to build an Android game?
 
 <br/>
 
-> 🧠 *"Humans are born ignorant, not stupid. They become stupid through laziness and despair."*
+> *"Humans are born ignorant, not stupid. They become stupid through laziness and despair."*
 
 </div>
