@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/SQlServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statamic-FF269E?style=for-the-badge&logo=statamic&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
